@@ -1,5 +1,6 @@
 Swift Translator Automated Testing (Playwright)
 Student ID : IT23207554
+----------------------------------------------
 
 This project contains automated test cases for the Swift Translator Web Application using Playwright.
 The tests validate positive and negative functional scenarios and basic UI behavior for Sinhala-English translation.
