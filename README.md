@@ -11,15 +11,6 @@ Playwright Test Framework
 Javascript
 Git & Github
 
-Project Structure:
-project-root/
-│
-├── tests/
-│   └── it23207554.spec.js
-├── package.json
-├── playwright.config.js
-└── README.md
-
 Prerequisites:
 Node.js (v16 or above)
 Git 
